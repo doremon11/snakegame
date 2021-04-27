@@ -1,0 +1,41 @@
+body{
+  padding: 10%;
+    background-image: url('https://wallpaperaccess.com/full/932099.jpg');
+    border: 5px solid black;
+    text-align: center;
+    color: #228b22;   
+ 
+    text-shadow: 0 0 5px #006400, 0 0 15px #8a8a8a, 0 0 20px #8a8a8a, 0 0 40px #8a8a8a, 0 0 60px #4b4b4b, 0 0 10px #228b22, 0 0 98px #4b4b4b;
+    color: #ffffff;
+  text-align: center;
+  animation: blink 12s infinite;
+  -webkit-animation: blink 12s infinite;
+   font-family: Montserrat;
+
+
+}
+span{
+  font-size: 60px;
+}
+p{
+  font-size: 20px;
+}
+:root {
+	--white:#f1f1f1
+}
+div > span {
+  opacity: 0.15;
+}
+#I {
+  opacity: 1;
+  animation: flickerI 2s linear  reverse infinite;
+}
+#I::after {
+  content: '';
+  width: 150%;
+  -webkit-box-shadow: -35px 0px 60px 8px rgba(255,255,255,1);
+  -moz-box-shadow: -35px 0px 60px 8px rgba(255,255,255,1);
+  box-shadow: -35px 0px 60px 8px rgba(255,255,255,1);
+}
+}
+
