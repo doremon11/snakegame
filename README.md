@@ -4,11 +4,6 @@ In this project you will train a machine to identify your hand gesture and play 
 # What is Teachable Machine?
 Teachable Machine is a web-based tool that makes creating machine learning models fast, easy, and accessible to everyone.
 link : https://teachablemachine.withgoogle.com/
-# Youtube 
- https://youtu.be/aqDIiGlBf2g
-# ROCK PAPER SCISSORS
-   In this project you will train a machine to identify your hand gesture and play a rock
-paper scissor game against a computer.
 # Game Description
   Generally, we use keys to control snake,but here we have to  use fingers to control:
   one for left, 
@@ -17,8 +12,11 @@ paper scissor game against a computer.
   four for down
   red block -- target 
   black block -- our position
-#  GAME !  
+#  Game!  
   https://editor.p5js.org/19pa1a1257/sketches/xA5qQPRk8
+  
+# Video
+ https://youtu.be/aqDIiGlBf2g
 
 # Resources
    Snake Game : https://thecodingtrain.com/CodingChallenges/003-snake-game-p5.html
