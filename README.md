@@ -15,8 +15,6 @@ link : https://teachablemachine.withgoogle.com/
 #  Game!  
   https://editor.p5js.org/19pa1a1257/sketches/xA5qQPRk8
   
-# Video
- https://youtu.be/aqDIiGlBf2g
 
 # Resources
    Snake Game : https://thecodingtrain.com/CodingChallenges/003-snake-game-p5.html
